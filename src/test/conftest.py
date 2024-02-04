@@ -53,10 +53,11 @@ logger = setup_logger()
 
 
 @pytest.fixture(scope="module")
-def driver():
+def driver_c():
     # Initialize the WebDriver instance (you can choose the browser here)
     driver = webdriver.Chrome()
     logger.info("Browser started")
+
 
     driver.maximize_window()
 

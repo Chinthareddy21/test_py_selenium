@@ -1,9 +1,9 @@
-2023-12-08 15:54:15,201 [conftest.py.driver:59] - INFO: Browser started
-2023-12-08 15:54:15,323 [conftest.py.driver:64] - INFO: Entered homepage url
-2023-12-08 15:54:17,359 [conftest.py.driver:79] - INFO: HTTP Status Code of https://accounts.google.com/v3/signin/identifier?ifkv=ASKXGp3MTxIMvdwT_xuV-VouTzd9ObnZYnGyZqAAvaQVb3uo02GT9KH2uGTNXjdXMpMiEMpyH2mXOg&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-754343949%3A1702025013586268&theme=glif: 200
-2023-12-08 15:54:17,359 [conftest.py.driver:80] - INFO: Navigated to home page
-2023-12-08 15:54:17,359 [conftest.py.driver:83] - INFO: Taking homepage screenshot
-2023-12-08 15:54:19,596 [create_Account_Page.py.account_type_selection:21] - INFO: Navigating to next page
-2023-12-08 15:54:21,705 [create_Account_Page.py.entering_name:35] - INFO: Navigating to next page
-2023-12-08 15:54:23,810 [create_Account_Page.py.entering_dob_and_gender:53] - INFO: Navigating to next page
-2023-12-08 15:54:26,025 [conftest.py.driver:92] - INFO: Browser closed
+2024-01-31 20:51:04,570 [conftest.py.driver:59] - INFO: Browser started
+2024-01-31 20:51:04,699 [conftest.py.driver:64] - INFO: Entered homepage url
+2024-01-31 20:51:06,726 [conftest.py.driver:79] - INFO: HTTP Status Code of https://accounts.google.com/v3/signin/identifier?ifkv=ASKXGp3MTxIMvdwT_xuV-VouTzd9ObnZYnGyZqAAvaQVb3uo02GT9KH2uGTNXjdXMpMiEMpyH2mXOg&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-754343949%3A1702025013586268&theme=glif: 200
+2024-01-31 20:51:06,727 [conftest.py.driver:80] - INFO: Navigated to home page
+2024-01-31 20:51:06,727 [conftest.py.driver:83] - INFO: Taking homepage screenshot
+2024-01-31 20:51:08,801 [create_Account_Page.py.account_type_selection:21] - INFO: Navigating to next page
+2024-01-31 20:51:09,939 [create_Account_Page.py.entering_name:35] - INFO: Navigating to next page
+2024-01-31 20:51:11,691 [create_Account_Page.py.entering_dob_and_gender:53] - INFO: Navigating to next page
+2024-01-31 20:51:13,900 [conftest.py.driver:92] - INFO: Browser closed
