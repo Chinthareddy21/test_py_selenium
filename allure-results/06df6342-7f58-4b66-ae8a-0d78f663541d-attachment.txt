@@ -1,0 +1,9 @@
+INFO     src.test.conftest:conftest.py:59 Browser started
+INFO     src.test.conftest:conftest.py:65 Entered homepage url
+INFO     src.test.conftest:conftest.py:80 HTTP Status Code of https://accounts.google.com/v3/signin/identifier?ifkv=ASKXGp3MTxIMvdwT_xuV-VouTzd9ObnZYnGyZqAAvaQVb3uo02GT9KH2uGTNXjdXMpMiEMpyH2mXOg&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-754343949%3A1702025013586268&theme=glif: 200
+INFO     src.test.conftest:conftest.py:81 Navigated to home page
+INFO     src.test.conftest:conftest.py:84 Taking homepage screenshot
+INFO     src.test.conftest:create_Account_Page.py:21 Navigating to next page
+INFO     src.test.conftest:create_Account_Page.py:35 Navigating to next page
+INFO     src.test.conftest:create_Account_Page.py:53 Navigating to next page
+INFO     src.test.conftest:conftest.py:93 Browser closed
